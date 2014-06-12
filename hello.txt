@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 I hope this makes it!
+=======
+Oh no!  What is going to happen?
+>>>>>>> 4059967238c04b3136e44cf1cbf1c7ef608e7354
