@@ -1,3 +1,34 @@
+commit 754e6800dc57c138d78ebc3ffa78da94c71c8dff
+Author: Sean Smith <seansmith1020@gmail.com>
+Date:   Thu Jun 12 14:41:24 2014 -0600
+
+    we cheated and fixed it manually
+
+commit 94cf61d59cfda7ee4fcb9a7c9d020246af8d7533
+Merge: 95e6855 4059967
+Author: Sean Smith <seansmith1020@gmail.com>
+Date:   Thu Jun 12 14:39:04 2014 -0600
+
+    committing after pulling alex's version. hopefully its fixed
+
+commit 4059967238c04b3136e44cf1cbf1c7ef608e7354
+Author: Alex McRitchie <amcritchie@gmail.com>
+Date:   Thu Jun 12 14:34:09 2014 -0600
+
+    Adding a line to Alex's text.
+
+commit 95e685533a9b9f4f3af44e6964bf44eb3752432c
+Author: Sean Smith <seansmith1020@gmail.com>
+Date:   Thu Jun 12 14:33:59 2014 -0600
+
+    adding a line to sean's hello.txt file
+
+commit 61b5b8d9e2b089e164c2910923af27f335feac55
+Author: Sean Smith <seansmith1020@gmail.com>
+Date:   Thu Jun 12 14:16:37 2014 -0600
+
+    adding the output of git-log
+
 commit af4b93b9bb49a779318d190711a8c6c33e0bf86e
 Author: Sean Smith <seansmith1020@gmail.com>
 Date:   Thu Jun 12 14:12:16 2014 -0600
